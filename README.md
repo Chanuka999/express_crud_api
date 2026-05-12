@@ -98,11 +98,6 @@ node server.js
 - JWT tokens are used for protected routes.
 - Use the token received after login as a Bearer Token in the `Authorization` header.
 
-## Notes
-
-- For testing, the user list is dummy data (no DB required).
-- To enable database, implement the User model and connect to MongoDB or another DB.
-
 ---
 
 # express_crud_api
